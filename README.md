@@ -8,7 +8,7 @@ Atualmente, busco uma oportunidade como Desenvolvedor Front-end, com foco em HTM
 
 🌐 Vamos nos conectar e inovar juntos!
 
-
+<p align="left">
     <a href="https://github.com/HillyBrito?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
