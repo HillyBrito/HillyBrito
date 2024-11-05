@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hilly Brito
+# 👨🏻‍💻 Hilly Brito
 
 **`Desenvolvedora Front-End`**
 
@@ -76,4 +76,3 @@ Atualmente, busco uma oportunidade como Desenvolvedor Front-end, com foco em HTM
   />
 
 </p>
-
