@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hilly Brito
 
-**`Desenvolvedora Front-End`**
+**`Desenvolvedor Front-End`**
 
 Meu nome é Hilly de Brito Pompermayer, tenho 37 anos e sou natural de Guarapari, ES. Sou bacharel em Ciência da Computação e um profissional de TI dedicado, com sólida experiência como professor de Educação Profissional e Tecnologia. Estou sempre em busca de inovações que promovam eficiência tanto nos negócios quanto no aprendizado. Minha paixão pela tecnologia me impulsiona a enfrentar desafios com soluções criativas e eficazes.
 
@@ -72,6 +72,7 @@ Atualmente, busco uma oportunidade como Desenvolvedor Front-end, com foco em HTM
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HillyBrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
